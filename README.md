@@ -1,4 +1,4 @@
-## Hi there 👋
+## <-- That's me
 - ️🎓 I am a grad student graduating MS in Information Systems in Dec 2024
 - 🔭 I’m interested in data engineering⚙️ and public transportation🚆
 - 🌱 I’m currently learning more about data engineering concepts
