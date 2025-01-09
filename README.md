@@ -6,8 +6,8 @@
 My skills are:  
 **Languages:** Python, SQL, Bash  
 **Libraries:** pandas, Polars, NumPy, TensorFlow, scikit-learn, XGBoost, PySpark, GeoPandas, Matplotlib, seaborn  
-**Data Engineering**: Spark, dbt, Airflow, Snowflake, ElasticSearch, Kibana
-**DevOps and Cloud**: Git, Docker, Kubernetes, Terraform, AWS, GCP, Azure
+**Data Engineering:** Spark, dbt, Airflow, Snowflake, ElasticSearch, Kibana  
+**DevOps and Cloud:** Git, Docker, Kubernetes, Terraform, AWS, GCP, Azure
 
 <!--
 **sdf-jkl/sdf-jkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
