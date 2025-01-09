@@ -1,7 +1,7 @@
 ## Hello there!
 - ️🎓 Just finished my MS in Information Systems in Dec 2024
 - 🔭 I’m interested in data engineering and public transportation, urban planning and cool stuff like that
-- 🌱 I’m currently learning rust, reading DDIA and trying to come up with projects to do(struggling)
+- 🌱 I’m currently learning Rust, reading DDIA and trying to come up with projects to do(struggling)
 
 My skills are:  
 **Languages:** Python, SQL, Bash  
