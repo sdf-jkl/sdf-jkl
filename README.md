@@ -1,13 +1,13 @@
 ## Hello there!
-- ️🎓 I am a grad student graduating MS in Information Systems in Dec 2024
-- 🔭 I’m interested in data engineering and public transportation
-- 🌱 I’m currently learning more about data engineering concepts
+- ️🎓 Just finished my MS in Information Systems in Dec 2024
+- 🔭 I’m interested in data engineering and public transportation, urban planning and cool stuff like that
+- 🌱 I’m currently learning rust, reading DDIA and trying to come up with projects to do(struggling)
 
 My skills are:  
 **Languages:** Python, SQL, Bash  
-**Libraries:** pandas, NumPy, TensorFlow, scikit-learn, XGBoost, PySpark, GeoPandas, Matplotlib, seaborn  
-**Big Data Tools:** Spark, ElasticSearch, Kibana, AWS, Snowflake, dbt  
-**Developer Tools:** Git, Docker, Terraform 
+**Libraries:** pandas, Polars, NumPy, TensorFlow, scikit-learn, XGBoost, PySpark, GeoPandas, Matplotlib, seaborn  
+**Data Engineering**: Spark, dbt, Airflow, Snowflake, ElasticSearch, Kibana
+**DevOps and Cloud**: Git, Docker, Kubernetes, Terraform, AWS, GCP, Azure
 
 <!--
 **sdf-jkl/sdf-jkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
