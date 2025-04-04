@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Rust and reading Algorithm Design Manual by Steven Skiena
 - 📖 Books I've read: DDIA
 - 🎮 Playing Red Dead Redemption 2 🤠
+
 My skills are:
 **Languages:** Python, SQL, Bash  
 **Libraries:** pandas, Polars, NumPy, TensorFlow, scikit-learn, XGBoost, PySpark, GeoPandas, Matplotlib, seaborn  
