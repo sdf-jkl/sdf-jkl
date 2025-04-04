@@ -3,9 +3,10 @@
 - 🔭 I’m interested in software engineering, public transportation, urban planning and cool stuff like that
 - 🌱 I’m currently learning Rust and reading Algorithm Design Manual by Steven Skiena
 - 📖 Books I've read: DDIA
-- 🎮 Playing Red Dead Redemption 2 🤠
+- 🎮 Playing 🤠Red Dead Redemption 2 
+- Favorite games: 🤿Subnautica, 🪲Hollow Knight, ☀️Outer Wilds
 
-My skills are:
+My skills are: \
 **Languages:** Python, SQL, Bash  
 **Libraries:** pandas, Polars, NumPy, TensorFlow, scikit-learn, XGBoost, PySpark, GeoPandas, Matplotlib, seaborn  
 **Data Engineering:** Spark, dbt, Airflow, Snowflake, ElasticSearch, Kibana  
