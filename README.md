@@ -1,9 +1,10 @@
 ## Hello there!
 - ️🎓 Just finished my MS in Information Systems in Dec 2024
-- 🔭 I’m interested in data engineering and public transportation, urban planning and cool stuff like that
-- 🌱 I’m currently learning Rust, reading DDIA and trying to come up with projects to do(struggling)
-
-My skills are:  
+- 🔭 I’m interested in software engineering, public transportation, urban planning and cool stuff like that
+- 🌱 I’m currently learning Rust and reading Algorithm Design Manual by Steven Skiena
+- 📖 Books I've read: DDIA
+- 🎮 Playing Red Dead Redemption 2 🤠
+My skills are:
 **Languages:** Python, SQL, Bash  
 **Libraries:** pandas, Polars, NumPy, TensorFlow, scikit-learn, XGBoost, PySpark, GeoPandas, Matplotlib, seaborn  
 **Data Engineering:** Spark, dbt, Airflow, Snowflake, ElasticSearch, Kibana  
@@ -14,8 +15,6 @@ My skills are:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
