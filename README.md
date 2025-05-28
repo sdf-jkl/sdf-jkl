@@ -1,6 +1,5 @@
 ## Hello there!
 
-🎓 Just finished my MS in Information Systems in Dec 2024  
 🔭 I’m interested in software engineering, public transportation, urban planning and maps  
 🌱 I’m currently learning Rust and reading Algorithm Design Manual by Steven Skiena  
 📖 CS Books I've read: DDIA by Martin Kleppmann    
